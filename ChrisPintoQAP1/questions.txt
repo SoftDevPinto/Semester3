@@ -1,0 +1,20 @@
+Chris Pinto
+September 19th 2022
+
+Questions for QAP
+
+
+1. If I had to guess it took me around 3 hours. Did a lot of research to try and get a lot of information on each global.
+
+2. I used YouTube, Your Lectures, Stack OverFlow, and some google searching.
+
+3. I did not need to ask any friends for help, but I did show mine to david and mark to get approval before submitting to get their opinion.
+
+4. I did not need to ask an instructor.
+
+5. I liked this QAP I didnt find it hard. It was a nice way to do research and learn some of the global objects!
+I am a bit of a nervous person so when it comes to QAPs I want to do the best I can and meet all expectations possible.
+
+Task 1 - Console, Events, HTTP, Path.
+
+Task 2 - Datefns
